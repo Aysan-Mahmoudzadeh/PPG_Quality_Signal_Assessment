@@ -9,28 +9,28 @@ Feature extraction: Extract 24 features Time-domain and Frequency-domain feature
 
 Features:
 
-Mean
+-Mean
 
-Standard deviation
+-Standard deviation
 
-Median
+-Median
 
-Skewness
+-Skewness
 
-Kurtosis
+-Kurtosis
 
-Power
+-Power
 
-Approximate Entropy of heart cycle
+-Approximate Entropy of heart cycle
 
-Shannon Entropy
+-Shannon Entropy
 
-Approximate Entropy of signal
+-Approximate Entropy of signal
 
-Integrate power spectral density in 12 bands (Frequency between 0.6 and 3)
+-Integrate power spectral density in 12 bands (Frequency between 0.6 and 3)
 
-Standard deviation of power spectral density
+-Standard deviation of power spectral density
 
-Maximum of Power spectral density
+-Maximum of Power spectral density
 
-Spectral Entropy
+-Spectral Entropy
